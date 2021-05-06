@@ -1,0 +1,3 @@
+[submodule "angular-custom-search"]
+	path = angular-custom-search
+	url = https://github.com/roonyx-tech/angular-custom-search
